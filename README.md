@@ -21,6 +21,7 @@ We could have performed more bettter than this and make a more compelling and fu
 # Disclaimer
 All Models are made by Rahul Pandit(3D Modeller+Animator+Rigger), The level is designed and setted-up by Aditya Gaurav (Game Developer+Designer+Coder). Only 4-5% of models are outsourced, such as some characters from Adobe mixamo and some tiny textures from UE4 Marketplace. All Blueprints and Codes are writtten by us, we learnt from open general learning sources such as youtube and self-exploration.
 
+Doubt & Query Solving by: https://www.knowasiak.com/groups/unreal-engine-essentials/
 VFX by Soul-City & ScienceLab: https://www.unrealengine.com/marketplace/en-US/product/soul-city?sessionInvalidated=true
 SFX by Fesliyan Studios: https://www.fesliyanstudios.com/
 Game Engine Used: https://www.unrealengine.com/en-US/download
